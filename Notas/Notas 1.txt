@@ -1,0 +1,9 @@
+Fundamento de componentes.
+
+Los componentes son una funcionalidad importante
+que tiene Vue. Se basan en las espesificaciones 
+de web componentes APIS.
+
+Permite modularizar mi aplicación en diferentes 
+pedazos de HTML, JavaScript y CSS para tener un 
+código más legible y semántico.
